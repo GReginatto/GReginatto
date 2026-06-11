@@ -1,13 +1,45 @@
-
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- 🔬 **Pesquisador de Inteligência Artificial** no grupo **[GAIA - UFPel](https://wp.ufpel.edu.br/)** (Universidade Federal de Pelotas)
+- 🔬 **Pesquisador de Inteligência Artificial** no grupo **[GAIA - UFPel](https://wp.ufpel.edu.br/gaia/)** (Universidade Federal de Pelotas)
 - 🎓 Cientista da Computação
 - 🤖 Interessado em **Machine Learning, Deep Learning e aplicações de IA**
+- ☁️ **AWS Certified Cloud Practitioner**
 - 🌱 Atualmente aprofundando conhecimentos em pesquisa e desenvolvimento de modelos inteligentes
 - 📍 Pelotas, Rio Grande do Sul - Brasil
+
+---
+
+## 💼 Experiência
+
+### 🤖 Artificial Intelligence Researcher — GAIA (UFPel)
+> 📅 jun/2025 – atual · Híbrido
+
+Implementação de pipelines de **Machine Learning** e **Deep Learning** utilizando Python (Pandas, Scikit-learn, TensorFlow/PyTorch). Aplicação de técnicas avançadas para manipulação e processamento de dados.
+
+### ☁️ Estagiário | Machine Learning com AWS — Compass UOL
+> 📅 jul/2024 – dez/2024 · Remoto
+
+Estágio com foco em aprendizado contínuo e uso de ferramentas da **Amazon AWS para Machine Learning** (S3, SQS, Lambda), com tecnologias de bancos de dados relacionais. Experiência com trabalho em equipe e entregas em sprints (**Scrum**).
+
+### 🐧 Applied Robotics Researcher — PinguimBots (UFPel)
+> 📅 jun/2023 – nov/2024
+
+Atuação em projetos de **robótica** com foco em automação e programação, incluindo desenvolvimento de **sistemas embarcados**, integração de sensores e controle de dispositivos.
+
+---
+
+## 🎓 Formação
+
+- **Bacharelado em Ciência da Computação** — Universidade Federal de Pelotas (UFPel) · *2022 – 2026*
+
+### 📜 Certificações
+<div align="left">
+  <a href="https://www.credly.com/"><img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner"/></a>
+</div>
+
+> ☁️ **AWS Certified Cloud Practitioner** — Amazon Web Services · Emitido em dez/2024
 
 ---
 
@@ -18,6 +50,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </div>
 
 ### Inteligência Artificial & Data Science
@@ -30,12 +65,30 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </div>
 
-### Ferramentas
+### Cloud & DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="AWS Lambda"/>
+  <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" alt="Amazon SQS"/>
+</div>
+
+### Web
+<div align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
+
+### Ferramentas & Metodologias
 <div align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Scrum"/>
+  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
 </div>
 
@@ -43,8 +96,35 @@
 
 ## 🔬 Pesquisa
 
-> 🧠 Atuo como pesquisador no **GAIA (Grupo de Inteligência Artificial Aplicada)** da **UFPel**, desenvolvendo projetos e estudos na área de Inteligência Artificial.
+> 🧠 Atuo como pesquisador no **GAIA (Grupo de Aplicações em Inteligência Artificial)** da **UFPel**, desenvolvendo projetos e estudos na área de Inteligência Artificial.
 > 🧠 Atuei como pesquisador no grupo **PinguimBots** da **UFPEL**, desenvolvendo projetos e estudos envolvendo robótica.
+
+### 🤖 GAIA — Grupo de Aplicações em Inteligência Artificial
+O GAIA promove a investigação científica teórica e prática sobre técnicas de IA e o emprego dessas técnicas em tecnologias inovadoras, estudando também o impacto social e os princípios éticos da área.
+
+[![Site do GAIA](https://img.shields.io/badge/Site-GAIA%20UFPel-2E97F7?style=for-the-badge&logo=wordpress&logoColor=white)](https://wp.ufpel.edu.br/gaia/)
+[![GitHub do GAIA](https://img.shields.io/badge/GitHub-gaia--ufpel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gaia-ufpel)
+
+### 🐧 PinguimBots — Liga Acadêmica de Robótica
+Liga Acadêmica de Robótica da UFPel, com atuação em projetos de automação e programação envolvendo sistemas embarcados, integração de sensores, controle de dispositivos e visão computacional.
+
+### 🎯 Áreas de Interesse
+<div align="left">
+  <img src="https://img.shields.io/badge/Machine%20Learning-2E97F7?style=for-the-badge" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-0EA5E9?style=for-the-badge" alt="Visão Computacional"/>
+  <img src="https://img.shields.io/badge/Rob%C3%B3tica-F97316?style=for-the-badge" alt="Robótica"/>
+  <img src="https://img.shields.io/badge/Anal%C3%ADtica%20de%20Dados-10B981?style=for-the-badge" alt="Analítica de Dados"/>
+  <img src="https://img.shields.io/badge/Estat%C3%ADstica-EF4444?style=for-the-badge" alt="Estatística"/>
+</div>
+
+---
+
+## 🌎 Idiomas
+
+- 🇧🇷 **Português** — Nativo
+- 🇺🇸 **Inglês** — Avançado
+- 🇪🇸 **Espanhol** — Intermediário
 
 ---
 
@@ -58,10 +138,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=GReginatto&theme=tokyonight&locale=pt_BR" alt="Streak de contribuições"/>
 
 </div>
-
----
-
-
 
 ---
 
