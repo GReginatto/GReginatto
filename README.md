@@ -1,7 +1,3 @@
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo+Reginatto+%F0%9F%91%8B;Pesquisador+de+IA+%40+GAIA+-+UFPel;Cientista+da+Computa%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://github.com/GReginatto)
-
-</div>
 
 ---
 
