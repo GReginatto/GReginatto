@@ -98,39 +98,7 @@ Liga Acadêmica de Robótica da UFPel, com atuação em projetos de automação 
 
 ---
 
-## 📊 Estatísticas do GitHub
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GReginatto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas de GReginatto"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GReginatto&layout=compact&theme=tokyonight&langs_count=8&locale=pt-br" alt="Linguagens mais usadas"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GReginatto&theme=tokyonight&locale=pt_BR" alt="Streak de contribuições"/>
-
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologia |
-|---------|-----------|------------|
-| [🎲 JOGO-JAVA](https://github.com/GReginatto/JOGO-JAVA) | Jogo de tabuleiro simples programado em Java | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| [🧮 Matriz-Esparsas](https://github.com/GReginatto/Matriz-Esparsas) | Trabalho final de Algoritmos e Estruturas de Dados | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) |
-| [🚢 BatalhaNaval](https://github.com/GReginatto/BatalhaNaval) | Jogo clássico de batalha naval em C | ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black) |
-| [🐍 Python](https://github.com/GReginatto/Python) | Experimentos e aprendizado em Python | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-
----
-
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=GReginatto&theme=tokyo-night&hide_border=true&locale=pt-br)](https://github.com/GReginatto)
-
-</div>
-
----
 
 ## 📫 Contato
 
