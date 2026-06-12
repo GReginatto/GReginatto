@@ -1,34 +1,4 @@
----
 
-## 🧑‍💻 Sobre mim
-
-- 🔬 **Pesquisador de Inteligência Artificial** no grupo **[GAIA - UFPel](https://wp.ufpel.edu.br/gaia/)** (Universidade Federal de Pelotas)
-- 🎓 Cientista da Computação
-- 🤖 Interessado em **Machine Learning, Deep Learning e aplicações de IA**
-- ☁️ **AWS Certified Cloud Practitioner**
-- 🌱 Atualmente aprofundando conhecimentos em pesquisa e desenvolvimento de modelos inteligentes
-- 📍 Pelotas, Rio Grande do Sul - Brasil
-
----
-
-## 💼 Experiência
-
-### 🤖 Artificial Intelligence Researcher — GAIA (UFPel)
-> 📅 jun/2025 – atual · Híbrido
-
-Implementação de pipelines de **Machine Learning** e **Deep Learning** utilizando Python (Pandas, Scikit-learn, TensorFlow/PyTorch). Aplicação de técnicas avançadas para manipulação e processamento de dados.
-
-### ☁️ Estagiário | Machine Learning com AWS — Compass UOL
-> 📅 jul/2024 – dez/2024 · Remoto
-
-Estágio com foco em aprendizado contínuo e uso de ferramentas da **Amazon AWS para Machine Learning** (S3, SQS, Lambda), com tecnologias de bancos de dados relacionais. Experiência com trabalho em equipe e entregas em sprints (**Scrum**).
-
-### 🐧 Applied Robotics Researcher — PinguimBots (UFPel)
-> 📅 jun/2023 – nov/2024
-
-Atuação em projetos de **robótica** com foco em automação e programação, incluindo desenvolvimento de **sistemas embarcados**, integração de sensores e controle de dispositivos.
-
----
 
 ## 🎓 Formação
 
